@@ -18,9 +18,6 @@ Date of finished:
 | [`diagrams/skidoskop_pilot.drawio`](diagrams/skidoskop_pilot.drawio) | Схема этапа 2 — тестирование партнёрами |
 | [`diagrams/skidoskop_production.drawio`](diagrams/skidoskop_production.drawio) | Схема этапа 3 — Production |
 | [`calculations/skidoskop_cost_model.xlsx`](calculations/skidoskop_cost_model.xlsx) | Экономическая модель с формулами (допущения, тарифы, три стадии, сводка и сценарии) |
-| [`defense_notes.md`](defense_notes.md) | Материал для подготовки к защите |
-
-> Работа полностью проектная: реальные ресурсы Google Cloud не создавались.
 
 ---
 

@@ -10,17 +10,6 @@ Date of finished:
 
 # Лабораторная работа №4 «Разработка инфраструктуры MVP AI-приложения»
 
-**Материалы работы**
-
-| Файл | Содержание |
-|---|---|
-| [`diagrams/skidoskop_mvp.drawio`](diagrams/skidoskop_mvp.drawio) | Схема этапа 1 — MVP (редактируемая, draw.io) |
-| [`diagrams/skidoskop_pilot.drawio`](diagrams/skidoskop_pilot.drawio) | Схема этапа 2 — тестирование партнёрами |
-| [`diagrams/skidoskop_production.drawio`](diagrams/skidoskop_production.drawio) | Схема этапа 3 — Production |
-| [`calculations/skidoskop_cost_model.xlsx`](calculations/skidoskop_cost_model.xlsx) | Экономическая модель с формулами (допущения, тарифы, три стадии, сводка и сценарии) |
-
----
-
 ## 1. Цель лабораторной работы
 
 Спроектировать облачную инфраструктуру AI-приложения для трёх состояний — начального MVP, тестирования партнёрами и Production, — рассчитать ежемесячные расходы на её содержание и обосновать выбор сервисов с учётом нагрузки и дальнейшего масштабирования.
